@@ -1,0 +1,16 @@
+.textinput {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.uitkomst {
+    height: 100%;
+    width: 80%;
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin-top: 0px;
+}
